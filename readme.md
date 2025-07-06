@@ -73,7 +73,7 @@ Security:
 
 ---
 
-## 🔗 Contract Addresses
+## 🔗 Contract Address
 
 - **Token A:** `0x234061b3ef7068e0f20a65947054337B744B5784`  
 - **Token B:** `0xcD5D8F7A90791Fb1eF68073249720c1aabf87d6f`  
